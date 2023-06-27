@@ -1,2 +1,3 @@
 # Graphitization
-A practice program
+1.0只是完成了表格和大体布局。
+2.0只是大概完成了，其中svg没有实现用图片代替的，
